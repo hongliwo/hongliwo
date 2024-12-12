@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/tags/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/tags/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/home/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/home/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/home/quick-start/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/home/quick-start/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/home/dir1/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/home/dir1/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/home/dir1/faq/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/home/dir1/faq/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/home/dir2/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/home/dir2/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/home/dir2/faq/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/home/dir2/faq/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/others/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/others/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/others/introduction/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/others/introduction/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/hongliwo/others/web-miner/</loc>
+        <lastmod>2024-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/hongliwo/others/web-miner/"/>
+    </url>
+</urlset>
