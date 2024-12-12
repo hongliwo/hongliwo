@@ -1,0 +1,6 @@
+title: 首页
+nav:
+- ... | index*.md
+- dir2
+- ...
+- ... | quick-start*.md
